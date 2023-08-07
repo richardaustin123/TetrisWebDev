@@ -1,12 +1,26 @@
 body {
-    background: #202028;
+    background: #37377a;
     color: #fff;
     font-family: 'Roboto', sans-serif;
-    font-size: 2em;
+    /* font-size: 2em; */
     text-align: center;
 }
 
 canvas {
     border: solid 0.2em #fff;
-    height: 90vh;
+    height: 85vh;
+    margin: 1em;
+}
+
+#score {
+    color: #fff;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+    padding: 0;
 }
